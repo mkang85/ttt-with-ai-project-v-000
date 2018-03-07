@@ -208,7 +208,8 @@ class Game
       end
       count += 1
       end
-
+      puts win_count
+      puts loss_count
     end
 
     puts "Would you like to play again? (Y/N)"
